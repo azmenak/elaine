@@ -32,6 +32,9 @@ Thumbs.db
 *.tar
 *.zip
 
+# Ingnore Codekit
+codekit-config.json
+
 # Ignore for Yeoman-Jekyll projects #
 app/_bower_components
 dist
