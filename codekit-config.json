@@ -647,18 +647,6 @@
       "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/elem-details-ck.js",
       "fileType" : 64
     },
-    "\/sass\/_settings.sass" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/_settings.sass",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_settings.css",
-      "fileType" : 2,
-      "debugStyle" : 0
-    },
     "\/_bower_components\/modernizr\/test\/js\/lib\/polyfills.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -670,6 +658,17 @@
       "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/test\/js\/lib\/polyfills-ck.js",
       "fileType" : 64
     },
+    "\/_bower_components\/modernizr\/feature-detects\/css-vminunit.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-vminunit.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-vminunit-ck.js",
+      "fileType" : 64
+    },
     "\/_bower_components\/modernizr\/test\/caniuse_files\/hashchange.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -678,6 +677,17 @@
       "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/test\/caniuse_files\/hashchange.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/_bower_components\/modernizr\/feature-detects\/css-lastchild.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-lastchild.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-lastchild-ck.js",
+      "fileType" : 64
     },
     "\/_bower_components\/modernizr\/feature-detects\/script-defer.js" : {
       "ignoreWasSetByUser" : 0,
@@ -688,17 +698,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/script-defer-ck.js",
-      "fileType" : 64
-    },
-    "\/_bower_components\/modernizr\/feature-detects\/css-vminunit.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-vminunit.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-vminunit-ck.js",
       "fileType" : 64
     },
     "\/_bower_components\/jquery\/jquery-migrate.js" : {
@@ -721,16 +720,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/_bower_components\/modernizr\/feature-detects\/css-lastchild.js" : {
+    "\/sass\/_settings.sass" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-lastchild.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-lastchild-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/sass\/_settings.sass",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_settings.css",
+      "fileType" : 2,
+      "debugStyle" : 0
     },
     "\/_bower_components\/foundation\/scss\/foundation\/components\/_top-bar.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1722,6 +1722,15 @@
       "outputAbbreviatedPath" : "\/_bower_components\/foundation\/js\/foundation\/foundation.offcanvas-ck.js",
       "fileType" : 64
     },
+    "\/css\/print.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/print.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/_bower_components\/modernizr\/test\/caniuse_files\/green5x5.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1732,15 +1741,6 @@
       "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/test\/caniuse_files\/green5x5.png",
       "initialSize" : 72,
       "fileType" : 8192
-    },
-    "\/css\/print.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/print.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/_bower_components\/modernizr\/grunt.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2539,6 +2539,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/_bower_components\/modernizr\/feature-detects\/network-eventsource.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/network-eventsource.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/network-eventsource-ck.js",
+      "fileType" : 64
+    },
     "\/_bower_components\/foundation\/scss\/foundation\/components\/_forms.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2550,17 +2561,6 @@
       "outputAbbreviatedPath" : "\/css\/_forms.css",
       "fileType" : 4,
       "debugStyle" : 0
-    },
-    "\/_bower_components\/modernizr\/feature-detects\/network-eventsource.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/network-eventsource.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/network-eventsource-ck.js",
-      "fileType" : 64
     },
     "\/_bower_components\/modernizr\/test\/caniuse_files\/alpha.png" : {
       "ignoreWasSetByUser" : 0,

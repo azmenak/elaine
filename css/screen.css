@@ -5364,3 +5364,11 @@ header {
 
 #home h1 {
   text-align: center; }
+
+img.allthelove {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
+  border: 1px solid #d9d9d9; }
