@@ -1,0 +1,10 @@
+{
+  "name": "elaine",
+  "version": "0.0.1",
+  "dependencies": {
+    "normalize-css": "~2.1.3",
+    "jquery": "~1.10.2",
+    "modernizr": "~2.6.2",
+    "foundation": "zurb/bower-foundation"
+  }
+}
