@@ -647,6 +647,18 @@
       "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/elem-details-ck.js",
       "fileType" : 64
     },
+    "\/sass\/_settings.sass" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/sass\/_settings.sass",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_settings.css",
+      "fileType" : 2,
+      "debugStyle" : 0
+    },
     "\/_bower_components\/modernizr\/test\/js\/lib\/polyfills.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -658,17 +670,6 @@
       "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/test\/js\/lib\/polyfills-ck.js",
       "fileType" : 64
     },
-    "\/_bower_components\/modernizr\/feature-detects\/css-vminunit.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-vminunit.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-vminunit-ck.js",
-      "fileType" : 64
-    },
     "\/_bower_components\/modernizr\/test\/caniuse_files\/hashchange.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -677,17 +678,6 @@
       "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/test\/caniuse_files\/hashchange.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/_bower_components\/modernizr\/feature-detects\/css-lastchild.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-lastchild.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-lastchild-ck.js",
-      "fileType" : 64
     },
     "\/_bower_components\/modernizr\/feature-detects\/script-defer.js" : {
       "ignoreWasSetByUser" : 0,
@@ -698,6 +688,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/script-defer-ck.js",
+      "fileType" : 64
+    },
+    "\/_bower_components\/modernizr\/feature-detects\/css-vminunit.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-vminunit.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-vminunit-ck.js",
       "fileType" : 64
     },
     "\/_bower_components\/jquery\/jquery-migrate.js" : {
@@ -720,17 +721,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/sass\/_settings.sass" : {
+    "\/_bower_components\/modernizr\/feature-detects\/css-lastchild.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/_settings.sass",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_settings.css",
-      "fileType" : 2,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-lastchild.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-lastchild-ck.js",
+      "fileType" : 64
     },
     "\/_bower_components\/foundation\/scss\/foundation\/components\/_top-bar.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -1357,15 +1357,15 @@
       "outputAbbreviatedPath" : "\/_bower_components\/foundation\/js\/vendor\/fastclick-ck.js",
       "fileType" : 64
     },
-    "\/_bower_components\/foundation\/js\/vendor\/placeholder.js" : {
+    "\/_bower_components\/modernizr\/feature-detects\/network-xhr2.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_bower_components\/foundation\/js\/vendor\/placeholder.js",
+      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/network-xhr2.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_bower_components\/foundation\/js\/vendor\/placeholder-ck.js",
+      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/network-xhr2-ck.js",
       "fileType" : 64
     },
     "\/_bower_components\/modernizr\/feature-detects\/contextmenu.js" : {
@@ -1390,17 +1390,6 @@
       "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/battery-api-ck.js",
       "fileType" : 64
     },
-    "\/_bower_components\/modernizr\/feature-detects\/network-xhr2.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/network-xhr2.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/network-xhr2-ck.js",
-      "fileType" : 64
-    },
     "\/_bower_components\/modernizr\/feature-detects\/css-displaytable.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1410,6 +1399,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/css-displaytable-ck.js",
+      "fileType" : 64
+    },
+    "\/_bower_components\/foundation\/js\/vendor\/placeholder.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_bower_components\/foundation\/js\/vendor\/placeholder.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_bower_components\/foundation\/js\/vendor\/placeholder-ck.js",
       "fileType" : 64
     },
     "\/_bower_components\/modernizr\/test\/caniuse_files\/red30x30.png" : {
@@ -1434,14 +1434,17 @@
       "outputAbbreviatedPath" : "\/Gruntfile-ck.js",
       "fileType" : 64
     },
-    "\/css\/screen.css" : {
+    "\/sass\/ie.sass" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/screen.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/sass\/ie.sass",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/ie.css",
+      "fileType" : 2,
+      "debugStyle" : 0
     },
     "\/elaine\/app\/_bower_components\/modernizr\/test\/caniuse_files\/png_alpha_result.png" : {
       "ignoreWasSetByUser" : 0,
@@ -1465,17 +1468,14 @@
       "outputAbbreviatedPath" : "\/_bower_components\/foundation\/js\/foundation-ck.js",
       "fileType" : 64
     },
-    "\/sass\/ie.sass" : {
+    "\/css\/screen.css" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/sass\/ie.sass",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/ie.css",
-      "fileType" : 2,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/css\/screen.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/_bower_components\/modernizr\/feature-detects\/window-framed.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1803,7 +1803,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
+      "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 2048
     },
     "\/_bower_components\/modernizr\/feature-detects\/contenteditable.js" : {
@@ -2288,17 +2288,6 @@
       "initialSize" : 1232,
       "fileType" : 8192
     },
-    "\/_bower_components\/foundation\/js\/foundation\/foundation.dropdown.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_bower_components\/foundation\/js\/foundation\/foundation.dropdown.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_bower_components\/foundation\/js\/foundation\/foundation.dropdown-ck.js",
-      "fileType" : 64
-    },
     "\/_bower_components\/foundation\/scss\/foundation\/components\/_side-nav.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2320,6 +2309,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/workers-blobworkers-ck.js",
+      "fileType" : 64
+    },
+    "\/_bower_components\/foundation\/js\/foundation\/foundation.dropdown.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_bower_components\/foundation\/js\/foundation\/foundation.dropdown.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_bower_components\/foundation\/js\/foundation\/foundation.dropdown-ck.js",
       "fileType" : 64
     },
     "\/_bower_components\/modernizr\/feature-detects\/gamepad.js" : {
@@ -2539,17 +2539,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_bower_components\/modernizr\/feature-detects\/network-eventsource.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/network-eventsource.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/network-eventsource-ck.js",
-      "fileType" : 64
-    },
     "\/_bower_components\/foundation\/scss\/foundation\/components\/_forms.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2561,6 +2550,17 @@
       "outputAbbreviatedPath" : "\/css\/_forms.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/_bower_components\/modernizr\/feature-detects\/network-eventsource.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/network-eventsource.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/_bower_components\/modernizr\/feature-detects\/network-eventsource-ck.js",
+      "fileType" : 64
     },
     "\/_bower_components\/modernizr\/test\/caniuse_files\/alpha.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2814,27 +2814,27 @@
       "curly" : 1,
       "trailing" : 1,
       "nonew" : 1,
-      "withstmt" : 0,
+      "es3" : 0,
+      "freeze" : 1,
+      "yui" : 0,
       "mootools" : 0,
       "proto" : 0,
       "boss" : 0,
       "funcscope" : 0,
-      "regexdash" : 1,
       "jquery" : 1,
       "esnext" : 0,
       "camelcase" : 0,
-      "es5" : 0,
       "dojo" : 0,
       "strict" : 0,
       "devel" : 0,
-      "onecase" : 0,
       "wsh" : 0,
       "nonstandard" : 0,
       "asi" : 0,
-      "smarttabs" : 0,
+      "moz" : 0,
       "rhino" : 0,
-      "noempty" : 0,
+      "smarttabs" : 0,
       "lastsemic" : 0,
+      "noempty" : 0,
       "eqnull" : 1,
       "eqeqeq" : 0,
       "couch" : 0,
@@ -2851,18 +2851,19 @@
       "unused" : 1,
       "debug" : 0,
       "bitwise" : 1,
+      "notypeof" : 1,
+      "white" : 0,
       "browser" : 1,
       "worker" : 0,
       "laxcomma" : 0,
       "multistr" : 0,
       "shadow" : 0,
       "sub" : 0,
-      "regexp" : 0,
+      "plusplus" : 0,
       "scripturl" : 0,
       "forin" : 0,
       "loopfunc" : 0,
-      "laxbreak" : 0,
-      "plusplus" : 0
+      "laxbreak" : 0
     },
     "jsLintFlags" : {
       "white" : 0,
